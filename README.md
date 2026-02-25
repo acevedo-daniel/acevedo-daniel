@@ -1,11 +1,11 @@
 <h1 align="center">Mario Daniel Acevedo</h1>
-<h3 align="center">University Programming Technician · Backend Developer</h3>
+<h3 align="center">Backend Developer (TypeScript / Node.js)</h3>
 
 <p align="center">
   <a href="mailto:danielacevedo.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-black?style=for-the-badge&logo=gmail&logoColor=white&color=0D0D0D" height="30"/>
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/mariodanielacevedo/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=linkedin&logoColor=white&color=0D0D0D" height="30"/>
   </a>
 </p>
@@ -14,16 +14,13 @@
 
 ---
 
-## About Me
+## About
 
-Backend-focused developer building production-oriented technical demos with:
+Backend Developer focused on TypeScript and Node.js.
 
-- Strict TypeScript
-- Validation-first API contracts
-- Clear architectural boundaries
-- Security and operational discipline
+I design and build production-oriented REST APIs with strong emphasis on clean architecture, validation-first design, and secure authentication.
 
-I design backend systems as deployable software — even when developed as technical demonstrations.
+My projects are developed with real-world practices in mind — structured logging, CI validation, containerized environments, and operational discipline.
 
 ---
 
@@ -46,7 +43,7 @@ I design backend systems as deployable software — even when developed as techn
 <p align="center">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white&color=0D0D0D"/>
   <img src="https://img.shields.io/badge/Argon2-000000?style=for-the-badge&logo=security&logoColor=white&color=0D0D0D"/>
-  <img src="https://img.shields.io/badge/Pino-Logging?style=for-the-badge&logo=none&logoColor=white&color=0D0D0D"/>
+  <img src="https://img.shields.io/badge/Pino-Structured_Logging?style=for-the-badge&logo=none&logoColor=white&color=0D0D0D"/>
   <img src="https://img.shields.io/badge/Vitest-Testing?style=for-the-badge&logo=vitest&logoColor=white&color=0D0D0D"/>
 </p>
 
@@ -54,18 +51,24 @@ I design backend systems as deployable software — even when developed as techn
 
 ---
 
-## Feature Projects
+## Featured Project
 
 ### CoPark API
-<sub>SaaS Parking Management Backend · Technical Demo</sub>
+<sub>SaaS Parking Management Backend</sub>
 
 - Layered architecture (`controller → service → repository`)
-- Zod validation synchronized with OpenAPI 3.1
-- JWT authentication (HS256) + Argon2 hashing
-- Configurable auth rate limiting (optional Redis store)
+- Validation-first contracts synchronized with OpenAPI 3.1
+- JWT authentication (HS256) with Argon2 password hashing
+- Configurable rate limiting (optional distributed store)
 - Structured logging with request correlation
-- Graceful shutdown & CI quality gates
+- Graceful shutdown & CI validation pipeline
+- Security baseline (Helmet, CORS policy, body limits)
 
 Status: Baseline release · Ongoing refinement
 
 ---
+
+## Currently
+
+- Open to Junior Backend / Node.js opportunities
+- Actively improving English for international roles
