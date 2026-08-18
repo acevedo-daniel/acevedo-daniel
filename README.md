@@ -1,31 +1,61 @@
-# Mario Daniel Acevedo
+# Daniel Acevedo
 
-Backend developer focused on TypeScript, Node.js, PostgreSQL, and API design.
+**Software Developer · Backend-focused**
 
-I build backend systems with clear business rules, strong validation, and well-defined data flows.
+**University Technician in Programming · Systems Engineering Student**
 
-Email: danielacevedo.dev@gmail.com  
-LinkedIn: https://www.linkedin.com/in/mariodanielacevedo/
+I build web applications, APIs, integrations, and practical digital solutions that turn real workflows into maintainable software.
 
-## Focus
+My current technical focus is **Node.js, TypeScript, PostgreSQL, backend architecture, testing, and delivery**, while working across the frontend when a product requires it.
 
-- TypeScript and Node.js backend development
-- REST API design and OpenAPI documentation
-- PostgreSQL, Prisma, and transactional data flows
-- Authentication, validation, error handling, and CI quality gates
+## Selected work
 
-## Projects
+### [ParkCore](https://github.com/acevedo-daniel/parkcore)
 
-### ParkCore API
+Parking operations system for independent parking owners, covering facility management, live occupancy, vehicle check-ins, active sessions, and checkout flows.
 
-Backend API for parking operations built with TypeScript, Express 5, Prisma, and PostgreSQL.
+Built as a full-stack monorepo with a contract-driven boundary between the web application and API.
 
-The project covers authentication, parking management, vehicle lookup, booking lifecycle, and public reviews. It includes transactional check-in logic to prevent vehicle conflicts and over-capacity states.
+**TypeScript · Node.js · Express · PostgreSQL · Prisma · React · OpenAPI · Playwright · Docker**
 
-- API: https://parkcore-api.onrender.com/
-- Docs: https://parkcore-api.onrender.com/docs
-- Repository: https://github.com/acevedo-daniel/parkcore-api
+[Live application](https://parkcore-app.vercel.app/) · [Repository](https://github.com/acevedo-daniel/parkcore)
 
-## Stack
+---
 
-TypeScript | Node.js | Express | PostgreSQL | Prisma | Zod | OpenAPI | JWT | Vitest | Docker | GitHub Actions
+### [Caffeine Lane](https://github.com/acevedo-daniel/caffeine-lane)
+
+Editorial web application for cafe racer builds, guides, and reviews, with accounts, publishing workflows, comments, moderation, media management, search, and production deployment.
+
+Originally developed as an academic project and later rebuilt and maintained as a personal application.
+
+**Python · Django · PostgreSQL · Tailwind CSS · pytest · Playwright · Docker**
+
+[Live application](https://caffeinelane.onrender.com/) · [Repository](https://github.com/acevedo-daniel/caffeine-lane)
+
+---
+
+### [IntegrationHub](https://github.com/acevedo-daniel/integrationhub-app)
+
+Academic frontend application for exploring simulated digital integrations between applications, APIs, databases, and cloud services.
+
+Focused on typed React development, responsive interfaces, routing, search, filtering, and local state persistence.
+
+**React · TypeScript · Vite · React Router**
+
+[Repository](https://github.com/acevedo-daniel/integrationhub-app)
+
+## Core stack
+
+**Backend:** TypeScript · Node.js · Express · PostgreSQL · Prisma · REST · OpenAPI
+
+**Frontend:** React · TypeScript · Vite
+
+**Quality & delivery:** Vitest · Playwright · Docker · GitHub Actions
+
+**Also worked with:** Python · Django · Java · Spring Boot · C# · ASP.NET Core
+
+## Contact
+
+I'm open to **software development opportunities** and selected projects involving web systems, integrations, or business automation.
+
+[LinkedIn](https://www.linkedin.com/in/mariodanielacevedo/) · [Email](mailto:danielacevedo.dev@gmail.com)
