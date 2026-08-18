@@ -1,7 +1,8 @@
 # Daniel Acevedo
 
 **Software Developer · Backend-focused**
-**University Technician in Programming · Systems Engineering Student**
+
+University Technician in Programming · Systems Engineering Student
 
 I build web applications, APIs, integrations, and practical digital solutions that turn real workflows into maintainable software.
 
