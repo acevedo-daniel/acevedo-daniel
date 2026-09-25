@@ -1,41 +1,55 @@
 # Daniel Acevedo
 
-**Software Developer · Backend-focused**
+**Backend-focused software developer**
 
-University Technician in Programming · Systems Engineering Student
+University Technician in Programming · Systems Engineering student
 
-I build web applications, APIs, integrations, and practical digital solutions that turn real workflows into maintainable software.
+I like building software around real workflows: understanding how something works, finding the parts that create friction, and turning them into systems that are easier to use and maintain.
 
-Currently focused on **Node.js, TypeScript, PostgreSQL, backend architecture, testing, and delivery**.
+I currently work mostly with **TypeScript, Node.js, PostgreSQL, APIs, testing, and deployment**. I also spend time with other stacks when the project gives me a good reason to.
 
 ## Selected work
 
 ### [ParkCore](https://github.com/acevedo-daniel/parkcore)
 
-Parking operations system for independent parking owners, built as a full-stack monorepo with a contract-driven boundary between the web application and API.
+A parking operations system for independent parking owners, built around check-ins, active stays, capacity, and checkout.
 
-**TypeScript · Node.js · Express · PostgreSQL · Prisma · React · OpenAPI · Playwright · Docker**
+The project has grown into a full-stack monorepo with a contract-driven API boundary, PostgreSQL-backed domain rules, automated testing, and a deployed demo.
 
-[Live application](https://parkcore-app.vercel.app/) · [Repository](https://github.com/acevedo-daniel/parkcore)
+**TypeScript · Node.js · Express · PostgreSQL · Prisma · React · OpenAPI · Playwright**
 
----
+[Live demo](https://parkcore-app.vercel.app/) · [Repository](https://github.com/acevedo-daniel/parkcore)
+
+### [DMS](https://github.com/acevedo-daniel/dms-demo)
+
+A dental practice operations demo built around appointments, patient records, treatment context, and the day-to-day coordination of a small practice.
+
+I used it to explore scheduling rules, reproducible demo data, authentication, PostgreSQL-backed services, testing, and accessibility.
+
+**TypeScript · Next.js · PostgreSQL · Drizzle · Better Auth · Vitest · Playwright**
+
+[Live demo](https://dms-showcase.vercel.app/) · [Repository](https://github.com/acevedo-daniel/dms-demo)
 
 ### [Caffeine Lane](https://github.com/acevedo-daniel/caffeine-lane)
 
-Editorial web application with accounts, publishing workflows, comments, moderation, media management, search, testing, and production deployment.
+An editorial web application for cafe racer builds, workshop guides, reviews, and reader discussions.
 
-**Python · Django · PostgreSQL · Tailwind CSS · pytest · Playwright · Docker**
+It uses a server-rendered Django approach with PostgreSQL search, accounts, moderation, bilingual content, automated tests, and production deployment.
 
-[Live application](https://caffeinelane.onrender.com/) · [Repository](https://github.com/acevedo-daniel/caffeine-lane)
+**Python · Django · PostgreSQL · Tailwind CSS · Pytest · Playwright**
 
-## Core stack
+[Live demo](https://caffeine-lane.vercel.app/) · [Repository](https://github.com/acevedo-daniel/caffeine-lane)
 
-**Core:** TypeScript · Node.js · PostgreSQL · Express · React
+## Working with
 
-**Engineering:** OpenAPI · Prisma · Vitest · Playwright · Docker · GitHub Actions
+**Core:** TypeScript · Node.js · PostgreSQL · Express
+
+**Also:** Python · Django · Next.js · React
+
+**Engineering:** OpenAPI · Prisma · Drizzle · Vitest · Playwright · Docker · GitHub Actions
 
 ## Contact
 
-Open to **software development opportunities** and selected projects involving web systems, integrations, or business automation.
+I'm open to backend and software development opportunities, as well as selected work involving internal tools, integrations, and automation.
 
-[LinkedIn](https://www.linkedin.com/in/mariodanielacevedo/) · [Email](mailto:danielacevedo.dev@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/danielmarioacevedo/) · [Email](mailto:danielacevedo.dev@gmail.com)
